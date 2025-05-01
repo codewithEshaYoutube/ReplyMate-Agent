@@ -1,13 +1,13 @@
-# 🤖 ReplyMate AI Agent
+# 🤖 **ReplyMate AI Agent**
+![ReplyMate Cover](replymate_cover.png)
 
-> **Built by Aptiva AI for the lablab.ai Hackathon 2025**
+**Built by Aptiva AI for the lablab.ai Hackathon 2025**
 
 **ReplyMate AI Agent** is a real-time conversational intelligence system that enables secure, automated communication with built-in fraud detection and contextual memory. It’s designed for businesses that value smart, responsive, and ethical AI-powered messaging.
 
 ---
 
-## 🚀 Features
-
+## 🚀 **Features**
 - **AI-powered Responses** using GPT-4o  
 - **Fraud Detection** with hybrid rule-based + LLM techniques  
 - **Smart Context Memory** via LangChain and Redis  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 **Tech Stack**
 
 | Frontend   | Backend           | AI/NLP             | Infra & Database           |
 |------------|-------------------|--------------------|-----------------------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 👥 Team Aptiva AI
+## 👥 **Team Aptiva AI**
 
 | Name                   | Role                      | GitHub                                       |
 |------------------------|---------------------------|----------------------------------------------|
@@ -40,15 +40,29 @@
 
 ---
 
-## 📽️ Demo & Presentation
+## 📽️ **Demo & Presentation**
 
-- 📹 **Demo Video:** _Coming Soon_  
-- 🖼️ **Slide Deck:** _Coming Soon_  
-- 🧾 **Cover Page:** _Coming Soon_
+
+<!-- Demo Video 1 -->
+<video width="100%" controls autoplay>
+  <source src="demo-replymate-2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- Demo Video 2 -->
+<video width="100%" controls autoplay>
+  <source src="demo-replymate.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*The video will autoplay once clicked.*
+
+- 🖼️ **Slide Deck:** [Download PDF - replymate_slides.pdf](link_to_download_pdf)
+
 
 ---
 
-## 🧪 How to Run
+## 🧪 **How to Run**
 
 ```bash
 # Clone the repository
