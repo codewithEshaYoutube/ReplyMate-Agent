@@ -116,10 +116,18 @@ ReplyMate AI includes a **hybrid fraud detection system** combining:
 
 ---
 
-## 🔗 Official Submission
+---
 
-✅ View the official hackathon submission on **Lablab.ai**:  
-👉 [ReplyMate AI — AI Genesis Hackathon by Aptiva AI](https://lablab.ai/event/execute-ai-genesis/aptiva-ai/replymate-ai)
+## 🔗 Live Demo, Submission & Repository
+
+- 🚀 **Live Web App:**  
+  [ReplyMate AI - Streamlit Deployment](https://replymate-agent-b7dvmsfpbcobgnvpucxent.streamlit.app/)
+
+- ✅ **Lablab.ai Submission:**  
+  [ReplyMate AI — AI Genesis Hackathon by Aptiva AI](https://lablab.ai/event/execute-ai-genesis/aptiva-ai/replymate-ai)
+
+- 🧑‍💻 **GitHub Repository:**  
+  [https://github.com/codewithEshaYoutube/ReplyMate-Agent](https://github.com/codewithEshaYoutube/ReplyMate-Agent)
 
 ---
 
