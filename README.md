@@ -42,23 +42,13 @@
 
 ## 📽️ **Demo & Presentation**
 
-
-<!-- Demo Video 1 -->
-<video width="100%" controls autoplay>
-  <source src="demo-replymate-2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<!-- Demo Video 2 -->
-<video width="100%" controls autoplay>
-  <source src="demo-replymate.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### **Demo Video:**
+![ReplyMate AI Demo](demo-replymate-2.mp4)
 
 *The video will autoplay once clicked.*
 
 - 🖼️ **Slide Deck:** [Download PDF - replymate_slides.pdf](link_to_download_pdf)
-
+- 🧾 **Cover Page:** _Coming Soon_
 
 ---
 
